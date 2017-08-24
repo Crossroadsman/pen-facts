@@ -6,7 +6,8 @@ body {
 
 h1 {
   font-family: 'Great Vibes', cursive;
-  font-size: 2em;
+  /* typically set the h1 to 2em but because Great Vibes is unusually small, make it more */
+  font-size: 4em;
   color: #e6f2ff; /* almost white **/
   background-color: #004d99; /* dark blue */
   padding: 5px;
