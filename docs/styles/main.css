@@ -1,11 +1,12 @@
 
 body {
   font-family: 'Lato', sans-serif;
+  font-size: 100%;
 }
 
 h1 {
   font-family: 'Great Vibes', cursive;
-  size: 200%;
+  font-size: 2em;
   color: #e6f2ff; /* almost white **/
   background-color: #004d99; /* dark blue */
   padding: 5px;
@@ -14,6 +15,7 @@ h1 {
 }
 
 h2 {
+  font-size: 1.625em;
   background-color: #cce6ff; /* light blue */
   padding: 4px;
   padding-left: 16px;
