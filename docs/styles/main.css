@@ -5,14 +5,16 @@ body {
 
 h1 {
   font-family: 'Great Vibes', cursive;
-  size: 150%;
+  size: 200%;
   color: #e6f2ff; /* almost white **/
   background-color: #004d99; /* dark blue */
   padding: 5px;
+  padding-left: 16px;
   padding-bottom: 0px; /* compensate for Great Vibes positioning */
 }
 
 h2 {
   background-color: #cce6ff; /* light blue */
   padding: 4px;
+  padding-left: 16px;
 }
