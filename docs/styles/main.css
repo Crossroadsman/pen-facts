@@ -6,12 +6,13 @@ body {
 h1 {
   font-family: 'Great Vibes', cursive;
   size: 150%;
-  background-color: #99ddff; /* light blue */
+  color: #e6f2ff; /* almost white **/
+  background-color: #004d99; /* dark blue */
   padding: 5px;
   padding-bottom: 0px; /* compensate for Great Vibes positioning */
 }
 
 h2 {
-  background-color: #cceeff; /* even lighter blue */
+  background-color: #cce6ff; /* light blue */
   padding: 4px;
 }
