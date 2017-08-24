@@ -7,6 +7,7 @@ h1 {
   font-family: 'Great Vibes', cursive;
   background-color: #99ddff; /* light blue */
   padding: 5px;
+  padding-bottom: 0px; /* compensate for Great Vibes positioning */
 }
 
 h2 {
