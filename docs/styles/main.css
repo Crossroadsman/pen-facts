@@ -5,9 +5,11 @@ body {
 
 h1 {
   font-family: 'Great Vibes', cursive;
-  background-color: #99ddff /* light blue */
+  background-color: #99ddff; /* light blue */
+  padding: 5px;
 }
 
 h2 {
-  background-color: #cceeff /* even lighter blue */
+  background-color: #cceeff; /* even lighter blue */
+  padding: 4px;
 }
