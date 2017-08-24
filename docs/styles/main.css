@@ -5,6 +5,7 @@ body {
 
 h1 {
   font-family: 'Great Vibes', cursive;
+  size: 150%;
   background-color: #99ddff; /* light blue */
   padding: 5px;
   padding-bottom: 0px; /* compensate for Great Vibes positioning */
