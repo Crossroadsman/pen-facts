@@ -5,4 +5,9 @@ body {
 
 h1 {
   font-family: 'Great Vibes', cursive;
+  background-color: #99ddff /* light blue */
+}
+
+h2 {
+  background-color: #cceeff /* even lighter blue */
 }
